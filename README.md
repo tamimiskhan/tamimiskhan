@@ -6,6 +6,11 @@
       you can contact me in What'app :+880-1682083312
       also you can contact me in Fb : https://www.facebook.com/tamimiskhan/\
       linkedin : https://www.linkedin.com/in/tamimiskhan/
+      
+      Languages and Tools
+“Flutter”“Firebase”“Dart”“Github”
+
+
 
 <!---
 tamimiskhan/tamimiskhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
