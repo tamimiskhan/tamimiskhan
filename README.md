@@ -6,7 +6,7 @@
 - 👋 Hi, I’m TAMIM ISLAM KHAN
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter ❤️.
-- 💞️ I’m looking to collaborate on Team and my Compant.
+- 💞️ I’m looking to collaborate on Team and my Company.
 - ⚡ Fun fact **I love reading & Listening Music.
 
       
